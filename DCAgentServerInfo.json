@@ -1,0 +1,50 @@
+{
+    "RemoteOfficeProps": {
+        "SERVERPROTOCOL": "https",
+        "REMOTEOFFICENAME": "Local Office",
+        "CUSTOMERID": "1",
+        "ENABLEPROXY": "no",
+        "REMOTEOFFICEAUTHKEY": "d7247419c4cf7c7cb5b698fc05876f04",
+        "USEJSON": "true",
+        "CUSTOMERNAME": "DC_CUSTOMER",
+        "MSIRESTARTMANAGERCONTROL": "Disable",
+        "REMOTEOFFICEID": "1",
+        "ALLUSERS": "1"
+    },
+    "DSAuthProps": {
+        "VALUE1": "5255ea79e7692bd4109c6255fc6982e4485ecb23348452f7babacff736a7468045c9a4d12502362effb419a35c724008",
+        "SC_VALUE": "0",
+        "VALUE2": "d7247419c4cf7c7cb5b698fc05876f04",
+        "branchID": "1"
+    },
+    "ServerInfoProps": {
+        "SERVERFLATNAME": "1VWPOCMES001",
+        "productcode": "DCEE",
+        "SERVERSECIPADDRESS": "1VWPOCMES001.spcbr.int.br",
+        "SERVERPORT": "8383",
+        "SERVERIPADDRESS": "10.198.220.41",
+        "MSPNAME": "DC_MSP",
+        "SERVERSECUREPORT": "8383",
+        "SERVERNAME": "1VWPOCMES001.spcbr.int.br"
+    },
+    "AgentProps": {
+        "PERFORMASSETSCAN": "yes",
+        "AGENTVERSION": "11.2.2335.1.W",
+        "AGENTPOLLINGINTERVAL": "2",
+        "PERFORMPOSTINSTALL": "yes",
+        "DATA_TRANSFER_RATE": "0",
+        "UNIQUE_ID_PARAM": "SERVICE_TAG",
+        "UNIQUE_ID_STATUS": "false",
+        "PERFORMPATCHSCAN": "yes",
+        "ProductVersion": "11.2.2335.1.W",
+        "USEJSON": "true",
+        "PROXYBYPASS": "",
+        "ENABLE_CAPTCHA": "yes",
+        "ENABLESILENT": "YES",
+        "ENABLEREMOTEOFFICEMGMT": "no",
+        "UEMSProductCode": "[DCEE]",
+        "ENABLEDISTRIBUTIONSERVER": "no",
+        "AUTODETECT_PROXY": "false"
+    },
+    "ServerHashTime": "1694796594"
+}
